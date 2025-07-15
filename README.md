@@ -1,5 +1,5 @@
 
-# 🦘 Sistema de Sucursales - Canguro (Frontend)
+# Sistema de Sucursales - Canguro (Frontend)
 
 Frontend en React para administrar sucursales, conectado al backend con autenticación JWT y diseño con Material UI.
 
